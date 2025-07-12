@@ -1,0 +1,9 @@
+terraform/.terraform
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate.backup
+terraform/zips/*
+terraform/plan
+
+lambda/node_modules
+lambda/src/index.js
+lambda/dist
